@@ -1,1 +1,2 @@
-# Data-Center-Scheduling-Optimization
+Project Description:
+Optimized resource allocation in data center environments through innovative scheduling policies. Leveraged cloud computing principles and proposed a Genetic Algorithm to enhance efficiency. Conducted a thorough comparative analysis, implemented intelligent agents for faster scheduling, and achieved significant improvements in machine resource utilization with reduced delays. This project, backed by comprehensive research, is primed for real-world implementation.
